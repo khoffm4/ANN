@@ -1,7 +1,7 @@
 %This example takes the canoncial iris dataset and then
 function Ex1
 addpath(genpath('../Data'))
-addpath(genpath('../Code/SOMv2'))
+addpath(genpath('../Code/SOM'))
 close all
 hold on
 rng(10)
